@@ -1,0 +1,13 @@
+name = "ATM10 Sunucu"
+author = "ATMTeam"
+version = "8.1-1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d04fdc781a813e434df21014c6702ff10ff94cab432d2f5164ca52f34882021f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.249"
