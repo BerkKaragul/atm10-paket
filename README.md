@@ -16,3 +16,18 @@ Bellek 10 GB ayarlı; bilgisayarında az RAM varsa Edit → Settings → Java'da
 NeoForge sürümü değişen bir güncellemede açılışta "güncelle" penceresi çıkar → onayla, sonra bir kez daha Launch.
 
 Kendi eklediğin modlara (harita, shader vb.) dokunulmaz.
+
+## Eski ATM10 kurulumun varsa
+
+Eskisini dönüştürme, yukarıdaki gibi yeni kur (dünya sunucuda, kaybolan bir şey yok). İstersen eski ayarlarını taşı —
+**yeni kurulumu bir kez açıp kapattıktan sonra**, Prism'de eski kuruluma sağ tık → **Folder**, yenisine sağ tık →
+**Folder**, şunları eskiden yeniye kopyala (sor derse "üzerine yaz"):
+
+| Ne | Neyi taşır |
+|---|---|
+| `options.txt` | tuş atamaları, ses, grafik ayarları |
+| `journeymap` klasörü | harita + waypoint'ler |
+| `shaderpacks` klasörü ve `config\iris.properties` | shader'lar ve seçili shader |
+| `schematics` klasörü | Create şemaları |
+
+Sonra eski kurulumu silebilirsin.
