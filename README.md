@@ -19,15 +19,9 @@ Kendi eklediğin modlara (harita, shader vb.) dokunulmaz.
 
 ## Eski ATM10 kurulumun varsa
 
-Eskisini dönüştürme, yukarıdaki gibi yeni kur (dünya sunucuda, kaybolan bir şey yok). İstersen eski ayarlarını taşı —
-**yeni kurulumu bir kez açıp kapattıktan sonra**, Prism'de eski kuruluma sağ tık → **Folder**, yenisine sağ tık →
-**Folder**, şunları eskiden yeniye kopyala (sor derse "üzerine yaz"):
+Hiçbir şey yapma. Yeni kurulum ilk açılışta Prism'deki eski ATM10 kurulumunu kendisi bulur ve şunları kopyalar:
+kendi eklediğin modlar (paketteki modların başka sürümleri hariç), `options.txt` (tuşlar, ayarlar), JourneyMap haritası ve
+waypoint'ler, shader'lar ve seçili shader, resource pack'ler, Create şemaları. Ne taşındığı yeni kurulumun klasöründe
+`atm10-tasima.txt`'de yazar. Eski kurulum olduğu gibi kalır; her şey yerindeyse silebilirsin.
 
-| Ne | Neyi taşır |
-|---|---|
-| `options.txt` | tuş atamaları, ses, grafik ayarları |
-| `journeymap` klasörü | harita + waypoint'ler |
-| `shaderpacks` klasörü ve `config\iris.properties` | shader'lar ve seçili shader |
-| `schematics` klasörü | Create şemaları |
-
-Sonra eski kurulumu silebilirsin.
+Windows, Linux ve Mac'te aynı çalışır (Prism'in Java'sıyla).
