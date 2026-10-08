@@ -7,6 +7,7 @@ hash = "34ff18c33cba8ca1fc0eb28c46caccc44aab846450d92540f5c692fbcbb3514b"
 [[files]]
 file = "config/Mekanism/client.toml"
 hash = "7acab1ed60a239dcc2f0d63a869ee044dc135ffa339f8cdb6f0c4fa21e4b8798"
+preserve = true
 
 [[files]]
 file = "config/Mekanism/common.toml"
@@ -51,6 +52,7 @@ hash = "934704d0892d4abe43eb51bf9353103af60e800e044bb14435592cd6a14a0aaf"
 [[files]]
 file = "config/Mekanism/tools-client.toml"
 hash = "930a87ad60bf0bc93d7afa274386175a99488e4ba935d36eb62ae56f9ca6e08c"
+preserve = true
 
 [[files]]
 file = "config/Mekanism/tools-materials-startup.toml"
@@ -87,6 +89,7 @@ hash = "2815e8f0b7c8d9bf08d68b144e0b6b0777494ff421d68aac5c268bd1576b7733"
 [[files]]
 file = "config/aether-client.toml"
 hash = "3dfae31c50ffc93e0f846fc6103ab78b83f0dc47374e31a71faac3c9e12ae1c2"
+preserve = true
 
 [[files]]
 file = "config/aether-common.toml"
@@ -131,6 +134,7 @@ hash = "212065b9ea245e568bf99a4dd4bd16223d855d473f25067ab1c497dfdecb0d7c"
 [[files]]
 file = "config/ars_nouveau-client.toml"
 hash = "6403ea0ff7e0fe15d25759d144eaeb62409e022038cf559d11af55a76669ea30"
+preserve = true
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
@@ -159,6 +163,7 @@ hash = "68ff755dad29fc7d6970f9d220029e2a6ad0397feeea24110b34e0766170457b"
 [[files]]
 file = "config/bibliocraft-client.toml"
 hash = "61311a1ef389536aeb50da2927ae82fdf414d96c9cea8efd4a50046e0c0b80b1"
+preserve = true
 
 [[files]]
 file = "config/botanypots-mysticalagriculture/general.json"
@@ -175,10 +180,12 @@ hash = "2c8410b9655a74ce6bbbe8c0c59f0934079d12c129b1c209e50935229799ee3d"
 [[files]]
 file = "config/compactmachines-client.toml"
 hash = "ca010ac290185b46a05a402219db09f0ae4ccd1ca5565b4725969b35ca1e153d"
+preserve = true
 
 [[files]]
 file = "config/computercraft-client.toml"
 hash = "db7bbdc89ab05070b2a4c22f6348b0c80aca4a3c449d92cdc6bc56b5af25ff7b"
+preserve = true
 
 [[files]]
 file = "config/computercraft-server.toml"
@@ -187,6 +194,7 @@ hash = "1f677e3c900b3794e854b8fd2427c95cd93229297b0f28dade83c9fc2878bb48"
 [[files]]
 file = "config/cosmeticarmorreworked-client.toml"
 hash = "43fdd3c238bd8d851bacb97f78cc33446d655e7408eb507469740ebee9299ced"
+preserve = true
 
 [[files]]
 file = "config/crash_assistant/ATM10.theme.json"
@@ -211,14 +219,17 @@ hash = "4729ab25e29a25514f8e00c3be6fd4a4712e956a6388d0a1d4a9f8659f205ae7"
 [[files]]
 file = "config/cumulus_menus-client.toml"
 hash = "b82f5aef193bd64d86e58ac5a0b5b6b9b4976a137584d783a86798b574231664"
+preserve = true
 
 [[files]]
 file = "config/curios-client.toml"
 hash = "609821f1d2cb9525e96d4635509e4703f7f45cfc70b2f691839e318111d18db9"
+preserve = true
 
 [[files]]
 file = "config/darkmodeeverywhere-client.toml"
 hash = "ba4463ba778efd6ed71aeb3e45d95090fd7ed174008147e31be3b00e0bab709a"
+preserve = true
 
 [[files]]
 file = "config/enchdesc.json"
@@ -395,6 +406,7 @@ hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 [[files]]
 file = "config/fireproofboats-client.toml"
 hash = "80f422fa3e0e924f53aac2b722f7586079636f5f5520955d617bc8dbe1820298"
+preserve = true
 
 [[files]]
 file = "config/fluxnetworks-server.toml"
@@ -407,6 +419,7 @@ hash = "cc5cff78b1f796c00031a8635ac0604012714588b1340f5a1c5ce613150131de"
 [[files]]
 file = "config/framedblocks-client.toml"
 hash = "1b0e96a995d9ede7a9ff4b6d2cd3f99817c50313a0de44cb97565b55a8a61e84"
+preserve = true
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -4027,6 +4040,7 @@ hash = "44d1eb2e27746e8b73cd61bb527de393bc7fc54457919472a811c09c893c6ee0"
 [[files]]
 file = "config/iceandfire/iaf-client.json"
 hash = "4e3329aa1095d126180a7965ff404f25c104372efbab6c6d9d348909fec0932a"
+preserve = true
 
 [[files]]
 file = "config/iceandfire/iaf-common.json"
@@ -4035,6 +4049,7 @@ hash = "5b886f6f03600f6f03a166067fb1e7f545f19a9070d38a06976476669c7f8717"
 [[files]]
 file = "config/immersiveengineering-client.toml"
 hash = "20db6a6b8155e60d4304dc1c99f9dbcf434ad665d47095f8569b87a70ae102f5"
+preserve = true
 
 [[files]]
 file = "config/immersiveengineering-server.toml"
@@ -4091,10 +4106,12 @@ hash = "f364ad07490c52ea9a46268ab29bf11902acea2c7a1af11c764753cefb0527e7"
 [[files]]
 file = "config/invtweaks-client.toml"
 hash = "ff3a18de7c90d8f09e01eadcbcf066fc87ac1f7f8d89aa200532f8951ffc983c"
+preserve = true
 
 [[files]]
 file = "config/iris.properties"
 hash = "b0e1a63e658ca59dd8e5a92c049a7c4e09fc3246819d71f43f1047be9a5402bd"
+preserve = true
 
 [[files]]
 file = "config/ironfurnaces-common.toml"
@@ -4175,6 +4192,7 @@ hash = "bc0df32987d2fc91b7273f2bc047dabccbe3ce81a5e0e85726dc82e0a13a430b"
 [[files]]
 file = "config/jei/jei-client.ini"
 hash = "8a1d47954b786deb7120834cb68710eed4e1b2e3d7b5e7f28c43e45f152b95a0"
+preserve = true
 
 [[files]]
 file = "config/justdirethings-server.toml"
@@ -4183,6 +4201,7 @@ hash = "32b2646d3ba93a6549834ff71a918f28b981718d4e68daf1ba31180ac6df7844"
 [[files]]
 file = "config/keybindbundles-client.toml"
 hash = "f8faa130c3158d1b3cabb94860a4a40bc07808e49d3be185579cd1819f410b15"
+preserve = true
 
 [[files]]
 file = "config/legendarytooltips.toml"
@@ -4215,6 +4234,7 @@ hash = "2441ef15c6ee9432032e91cf28c796470de21ca0ed8933bcf2553d9cb5956e01"
 [[files]]
 file = "config/modern_industrialization-client.toml"
 hash = "124b0b94cbfe22781ad509d0196900dc10d7c4594acae7679d5db48b1aaa484d"
+preserve = true
 
 [[files]]
 file = "config/modern_industrialization-server.toml"
@@ -4319,6 +4339,7 @@ hash = "03628d836e10cdcc721a9daaca06a3e9141ca9a85d9daea0e4b93a0c9ee03c3a"
 [[files]]
 file = "config/oritech-client.toml"
 hash = "1052942f7b43695db6c5ff80283d17a65c38e12f0ea746842fb0b20671cfaefd"
+preserve = true
 
 [[files]]
 file = "config/oritech-common.toml"
@@ -4439,6 +4460,7 @@ hash = "695ecb6fbc0533c73f4eb4479f647c06b68b14672976cbd4c57f39d620371631"
 [[files]]
 file = "config/railcraft-client.toml"
 hash = "ccfb667bb3dfab32f72216dffc09fa591765db14e0a47c1ef5a2ac5e2c224af7"
+preserve = true
 
 [[files]]
 file = "config/reap-server.toml"
@@ -4459,6 +4481,7 @@ hash = "ce6b015ff03278c387114733a543c7fc47bcaa3ce5e76d907b975cab44ae00f5"
 [[files]]
 file = "config/securitycraft-client.toml"
 hash = "187407be08ea955afdf91ab37feed5df23e0d1a22e6df6f9a100821396427efa"
+preserve = true
 
 [[files]]
 file = "config/silentgear-common.toml"
@@ -4495,6 +4518,7 @@ hash = "808735d966e11fe08ccae1cf008c2e1a121b9fcfbf6a48150c5975cd27efa0cf"
 [[files]]
 file = "config/supplementaries-client.toml"
 hash = "6e80b6be5f121f6aefb4438502d5e9ab006d6b10503292757ddf0f1a7dbdc1d6"
+preserve = true
 
 [[files]]
 file = "config/supplementaries-common.toml"
@@ -4507,6 +4531,7 @@ hash = "3d5f9740757c0acec273ad0602a16dcbe734437af4981c4d3b7c573a8c5084a9"
 [[files]]
 file = "config/the_bumblezone/client.toml"
 hash = "2b9810b804bf450118b23cc3e47e875d1a31091e18a658b66acfd6a9d9db18bd"
+preserve = true
 
 [[files]]
 file = "config/the_bumblezone/dimension.toml"
@@ -4527,6 +4552,7 @@ hash = "8653680e83977bfb0d47d22298675a7069be775d3974a80f9bb8059da3911b7d"
 [[files]]
 file = "config/tombstone-client.toml"
 hash = "070274c37788cbe92cd6d2a5cfe9ded32e20f378528fb085b99505edd1b94ce7"
+preserve = true
 
 [[files]]
 file = "config/tombstone-common.toml"
