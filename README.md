@@ -17,6 +17,24 @@ NeoForge sürümü değişen bir güncellemede açılışta "güncelle" penceres
 
 Kendi eklediğin modlara (harita, shader vb.) dokunulmaz.
 
+## Paketteki bir modu istemiyorsan
+
+Prism → kuruluma sağ tık → **Edit** → **Mods** → modun tikini kaldır (disable). Kapalı kalır, güncellemelerde de kapalı
+gelir. Geri açmak için tiki yeniden koy. Modun jar dosyasını sildiysen bir sonraki açılışta mod geri iner ama **kapalı**
+gelir. Sunucuda da olan bir modu kapatırsan sunucuya giremeyebilirsin; o zaman yeniden aç.
+
+## Haritam (JourneyMap) boş görünüyor
+
+JourneyMap haritayı ve waypoint'leri sunucu listesindeki **ada** göre saklar. Eski kurulumda sunucunun adı başka olduğu
+için harita eski adın altında kalmıştı. Açılışta eski adla duran harita ve waypoint'ler bir kez "ATM10 Sunucu"ya
+kopyalanır; büyük haritalarda bu ilk açılış biraz uzun sürer.
+
+## Bu sayfadan önce kurduysan (bir kerelik)
+
+Başlatıcı yenilendi. Kurulumun `minecraft` klasöründeki (Prism → sağ tık → **Folder**) `atm10-baslat.jar`'ı
+[buradaki](https://github.com/BerkKaragul/atm10-paket/releases/download/kurulum/atm10-baslat.jar) dosyayla değiştir.
+Sonrasında hiçbir şey yapman gerekmez.
+
 ## Eski ATM10 kurulumun varsa
 
 Hiçbir şey yapma. Yeni kurulum ilk açılışta Prism'deki eski ATM10 kurulumunu kendisi bulur ve şunları kopyalar:

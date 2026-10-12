@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "atm10-arac.jar"
+hash = "960a27984f85df9e3c2ba46dc7dd00dc726db129663237e7afa4df19dfa3943c"
+
+[[files]]
 file = "config/Advancedperipherals/world.toml"
 hash = "34ff18c33cba8ca1fc0eb28c46caccc44aab846450d92540f5c692fbcbb3514b"
 
