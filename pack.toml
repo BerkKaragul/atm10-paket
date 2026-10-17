@@ -1,13 +1,13 @@
 name = "ATM10 Sunucu"
 author = "ATMTeam"
-version = "8.2-2"
+version = "8.3-1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a113d4e4d3142795be35271c7c20c5fa9919f6a32197643205d346ca15b56da5"
+hash = "352fdaefef89dadd5226fb324fe2727522a424ed1dc3bc52453c9a890f86211d"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.251"
+neoforge = "21.1.259"
